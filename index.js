@@ -175,7 +175,7 @@ const page = {
       .join("");
 
     utils.pageContent(
-      "Paramétrage <i id='reboot' class='fas fa-undo' ></i>",
+      "Choisissez un paramétrage <i id='reboot' class='fas fa-undo' ></i>",
       "<ul>" + mapArray + "</ul>",
       "<button id='start'> Commencer<i class ='far fa-play-circle'></i></button>"
     );
